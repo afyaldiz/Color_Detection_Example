@@ -1,1 +1,1 @@
-#Renk Algılama Kodu
+#Color Detection Code Example
